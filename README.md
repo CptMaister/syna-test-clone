@@ -45,8 +45,4 @@ We're using the standard directory structure using content pages.
 ├ config.toml # Hugo config file containing general settings and menu configs.
 ```
 
-For storing images in the static directory, note that Syna fragments look for
-images in their own fragment directory, page directory and `static/images`
-directory. Read our [image fallthrough documentation](https://syna.okkur.org/docs/image-fallthrough/) for more info.
-
 Further details read our [full documentation](https://syna.okkur.org/docs).
